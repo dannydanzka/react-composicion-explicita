@@ -30,5 +30,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "importSorter": {
+    "autoFormat": "off",
+    "maximumLineLength": 100,
+    "maximumBindingNamesPerLine": 3,
+    "tabSize": 4
   }
 }
